@@ -1,0 +1,14 @@
+{
+  "name": "listacompras",
+  "version": "1.0.0",
+  "description": "Trabalho Conclusivo de Disciplina",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Ingrid Medeiros",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
